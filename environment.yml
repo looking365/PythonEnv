@@ -58,7 +58,6 @@ dependencies:
     - pip
     - prompt-toolkit
     - psutil
-    - px-proxy
     - pyasn1
     - pyasn1-modules
     - pycparser
