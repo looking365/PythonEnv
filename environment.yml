@@ -1,100 +1,59 @@
 dependencies:
   - python=3
   - pip:
-    - altgraph
-    - asn1crypto
-    - astroid
-    - attrs
-    - Automat
-    - beautifulsoup4
+    - backcall
     - bleach
-    - bs4
-    - certifi
-    - cffi
-    - chardet
     - colorama
-    - constantly
-    - cryptography
-    - cssselect
     - cycler
     - decorator
+    - defusedxml
     - entrypoints
-    - future
-    - html5lib
-    - hyperlink
-    - idna
-    - incremental
     - ipykernel
     - ipython
     - ipython-genutils
-    - isort
+    - ipywidgets
     - jedi
     - Jinja2
     - jsonschema
+    - jupyter
     - jupyter-client
+    - jupyter-console
     - jupyter-core
     - jupyterlab
-    - jupyterlab-launcher
+    - jupyterlab-server
     - kiwisolver
-    - lazy-object-proxy
-    - lxml
-    - macholib
     - MarkupSafe
     - matplotlib
-    - mccabe
     - mistune
     - nbconvert
     - nbformat
-    - netaddr
     - notebook
-    - ntlm-auth
     - numpy
     - pandas
     - pandocfilters
-    - parsel
     - parso
-    - pefile
     - pickleshare
     - pip
+    - prometheus-client
     - prompt-toolkit
-    - psutil
-    - pyasn1
-    - pyasn1-modules
-    - pycparser
-    - PyDispatcher
     - Pygments
-    - PyInstaller
-    - pylint
-    - pyOpenSSL
     - pyparsing
-    - pypiwin32
     - python-dateutil
     - pytz
-    - pywin32
     - pywinpty
     - pyzmq
-    - queuelib
-    - requests
-    - requests-ntlm
+    - qtconsole
     - scapy
     - scipy
-    - Scrapy
     - selenium
     - Send2Trash
-    - service-identity
     - setuptools
-    - simplegeneric
     - six
     - terminado
     - testpath
     - tornado
     - traitlets
-    - Twisted
-    - unicodecsv
     - urllib3
-    - w3lib
     - wcwidth
     - webencodings
-    - winkerberos
-    - wrapt
-    - zope.interface 
+    - widgetsnbextension
